@@ -1,0 +1,12 @@
+<table class="table table-hover">
+  <thead>
+    <th style="text-align: left;">Country</th>
+    <th>Total Confirmed Covid Cases</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let x of sortedCountires">
+      <td>{{x.Country}}</td>
+      <td>{{x.TotalConfirmed}}</td>
+    </tr>
+  </tbody>
+</table>

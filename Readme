@@ -1,0 +1,9 @@
+This application is developed in angular
+
+1. make sure npm installed on your machine
+2. copy covid-top10-countries in specific folder
+3. move to covid-top10-countries folder from command prompt and run the following command "npm install"
+4. run the following command to execute  "ng serve"
+
+
+sample screen shot has attached in zip file with top 10 countries displayed
